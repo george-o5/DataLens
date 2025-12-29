@@ -1,0 +1,5 @@
+molecule,docking_score,binding_energy
+MolA,-7.2,-45.1
+MolB,-6.5,-38.4
+MolC,-8.1,-52.7
+MolD,-5.9,-30.2
